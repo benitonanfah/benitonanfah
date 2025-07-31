@@ -5,6 +5,9 @@
 ----
 ## Github Stats 🔥
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benitonanfah&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benitonanfah" /></p>
+
+
 ![Benito GitHub stats](https://github-readme-stats.vercel.app/api?username=benitonanfah&show_icons=true&theme=radical)<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benitonanfah&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="benitonanfah"/></p>
 <br>
@@ -13,8 +16,5 @@
 
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=benitonanfah&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benitonanfah" /></p>
-
 
 
